@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/intentions/static/css/main.84ab6231.chunk.css",
+    "main.js": "/intentions/static/js/main.b36e010d.chunk.js",
+    "main.js.map": "/intentions/static/js/main.b36e010d.chunk.js.map",
+    "runtime-main.js": "/intentions/static/js/runtime-main.438c7d1a.js",
+    "runtime-main.js.map": "/intentions/static/js/runtime-main.438c7d1a.js.map",
+    "static/css/2.56e8694c.chunk.css": "/intentions/static/css/2.56e8694c.chunk.css",
+    "static/js/2.4f344915.chunk.js": "/intentions/static/js/2.4f344915.chunk.js",
+    "static/js/2.4f344915.chunk.js.map": "/intentions/static/js/2.4f344915.chunk.js.map",
+    "index.html": "/intentions/index.html",
+    "precache-manifest.9de486dedce73289366a88f715ddeb8b.js": "/intentions/precache-manifest.9de486dedce73289366a88f715ddeb8b.js",
+    "service-worker.js": "/intentions/service-worker.js",
+    "static/css/2.56e8694c.chunk.css.map": "/intentions/static/css/2.56e8694c.chunk.css.map",
+    "static/css/main.84ab6231.chunk.css.map": "/intentions/static/css/main.84ab6231.chunk.css.map",
+    "static/js/2.4f344915.chunk.js.LICENSE.txt": "/intentions/static/js/2.4f344915.chunk.js.LICENSE.txt",
+    "static/media/calendar.svg": "/intentions/static/media/calendar.114592f2.svg",
+    "static/media/down-arrow.5e75c209.svg": "/intentions/static/media/down-arrow.5e75c209.svg",
+    "static/media/search.2ea4c436.svg": "/intentions/static/media/search.2ea4c436.svg",
+    "static/media/up-arrow.b5cd24f2.svg": "/intentions/static/media/up-arrow.b5cd24f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.438c7d1a.js",
+    "static/css/2.56e8694c.chunk.css",
+    "static/js/2.4f344915.chunk.js",
+    "static/css/main.84ab6231.chunk.css",
+    "static/js/main.b36e010d.chunk.js"
+  ]
+}
